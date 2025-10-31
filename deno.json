@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "compile": "deno compile --allow-all --node-modules-dir --output=disco ./bin/run.js"
+  },
+  "nodeModulesDir": true
+}

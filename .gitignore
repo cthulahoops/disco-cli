@@ -13,3 +13,9 @@ yarn.lock
 pnpm-lock.yaml
 
 .env
+build/
+disco-compiled
+disco-final*
+disco-v2
+disco-config
+node_modules/
